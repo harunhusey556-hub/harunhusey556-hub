@@ -14,6 +14,7 @@ ICT student from the Helsinki area, Finland 🇫🇮. I work in **IT support, au
 | **Caunto** | Simple bookkeeping app for small business owners (Finnish, mobile-first) | SwiftUI · TypeScript |
 | **EasyStock** | Stock management and accounting in one system for Finnish businesses | TypeScript · Web · iOS |
 | **AI agent system** | Multi-agent automation that turns customer orders into invoices and reports | Python · LLMs |
+| **[Calorie Tracker](https://github.com/harunhusey556-hub/calorie-tracker)** (public) | AI calorie tracker: log meals by text or photo, works offline | Next.js · TypeScript · Playwright |
 | **Booking agent** | AI booking assistant for a barber shop with calendar sync | Python · Google Calendar |
 
 ### Tools & skills
@@ -34,4 +35,4 @@ ICT student from the Helsinki area, Finland 🇫🇮. I work in **IT support, au
 Finnish · English · Turkish
 
 ---
-Most of my projects are private because they run real business data. Happy to show them in an interview.
+Most of my projects are private because they handle real business data. Happy to show them in an interview.
